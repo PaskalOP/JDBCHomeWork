@@ -1,0 +1,15 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éö±È8ãÈŞÛ1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ĞÌıÿÿÿÿ8‘ÈŞÛ1
+c
+java:S6201"FReplace this instanceof check and cast with 'instanceof String string'(îì–Î8‘ÈŞÛ1
+d
+java:S6201"BReplace this instanceof check and cast with 'instanceof Date data'(Éºœıÿÿÿÿ8‘ÈŞÛ1
+c
+java:S6201"FReplace this instanceof check and cast with 'instanceof String string'(ÌîĞç8‘ÈŞÛ1
+]	java:S1253"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ8’‘ÈŞÛ1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8’‘ÈŞÛ1
+G
+java:S1128	"*Remove this unused import 'java.sql.Date'.(ÙÀ½Ê8’‘ÈŞÛ1

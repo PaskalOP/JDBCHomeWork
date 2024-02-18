@@ -1,0 +1,8 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(щЎ▒╚8Доют█1
+b
+java:S6201"FReplace this instanceof check and cast with 'instanceof String string'(╜нуM8а░ют█1
+c
+java:S6201"FReplace this instanceof check and cast with 'instanceof String string'(ий╚о8б░ют█1
+d
+java:S6201"BReplace this instanceof check and cast with 'instanceof Date data'(╔║НЬ¤    8б░ют█1

@@ -1,0 +1,13 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éö±È8£Á°ßÛ1
+o	java:S116	"TRename this field "CLIENT_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·…r8ı®£áÛ1
+q	java:S116
+"URename this field "start_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÿ¥Ì8³‚¡áÛ1
+w	java:S116"VRename this field "finish_Date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ˜³ıÿÿÿÿ8òœáÛ1
+q	java:S116"VRename this field "MONTH_COUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸µ„w8Ë¹¤áÛ1
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(–¼‘åûÿÿÿÿ8øÆßÛ1
+d
+java:S6201"BReplace this instanceof check and cast with 'instanceof Date data'(™ôŒÖùÿÿÿÿ8úœ²ßÛ1
+_
+java:S6201"BReplace this instanceof check and cast with 'instanceof Date data'(¿Šè8ÇŒºßÛ1

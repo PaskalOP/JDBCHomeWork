@@ -1,0 +1,9 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éö±È8‘ÕâÛ1
+v	java:S116"URename this field "project_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı€Éøÿÿÿÿ8ğÕâÛ1
+P
+java:S1068".Remove this unused "project_id" private field.(ı€Éøÿÿÿÿ8óÕâÛ1
+K
+java:S1068")Remove this unused "price" private field.(²“•ÿÿÿÿÿ8óÕâÛ1
+H
+java:S1068"+Remove this unused "userCol" private field.(Ø›­“8óÕâÛ1

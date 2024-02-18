@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ffe78546-1f9c-4f06-8309-ba43e82f0a78" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/8/08cab2ac27f2b08db64ecb58b63416a4e4530bc5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/c/2c8622f5568f929a383db93badb8e41f51c3c12d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/6/3608623dad00c1606e5f69323304dd5194fee5a6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/7/378cb92c2f4978eb881bddf28f77dabcc42c39c7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/38d0fd07a2cca708a175836f8d8a41a02251b7ac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3ae146274d0f916e8d2400c41fdcee97716d99c2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/6/5673533d281369f1473aa8e2a5cfb688afa2bbe8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/69f6cc21093687ef9493dcbfab8e5a0e3c11522f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6bf8b6a9b1359b2adc5ed0becc1d3ad4ae085802" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/c/6c7765f3f62bc0e65c1e99c8ae52121fd551665b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7ade58e72dd5f3de98ec5111112d1e78954923c7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/d/8d29754c8b39cd9309226e0a72ef9775778a821f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/988b85a8255779d06e9969c0b14eefa477c0daaf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9ad41b05111d67d598bfacb4333a1d77dbc30dfa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a999f2d63e2a120afd247a4f8767eec8c52cd0c7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/d/ad677587e21a99c3ea90ebdeec2853a7e57ff047" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/e/aeddc33c7fc22852e1186c10e6f7a23db221d049" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/0/c0c9c79a3f9229fc5e34690b3016256951d150bc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/0/d09b11df6d07d4ab1cacbb9ec1e503964c44a45b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/4/d4d220d0032d98bf9f444eb6aec5bc3414913c73" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/5/d558ed5832b5384ec6a123cbb65822061b336cc8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/7/d7af6f3b8fd47947470747b77c1aa9340b7d2a61" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e1012b347bb3c2428ef918335affe1329e748d75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/5/e553312ef9500ee02d4a2e27a357bf7f9fbd1bcb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f07866736216be0ee2aba49e392191aeae700a35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/8/08cab2ac27f2b08db64ecb58b63416a4e4530bc5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/c/2c8622f5568f929a383db93badb8e41f51c3c12d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/6/3608623dad00c1606e5f69323304dd5194fee5a6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/7/378cb92c2f4978eb881bddf28f77dabcc42c39c7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/8/38d0fd07a2cca708a175836f8d8a41a02251b7ac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/a/3ae146274d0f916e8d2400c41fdcee97716d99c2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/5/6/5673533d281369f1473aa8e2a5cfb688afa2bbe8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/9/69f6cc21093687ef9493dcbfab8e5a0e3c11522f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/b/6bf8b6a9b1359b2adc5ed0becc1d3ad4ae085802" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/6/c/6c7765f3f62bc0e65c1e99c8ae52121fd551665b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/a/7ade58e72dd5f3de98ec5111112d1e78954923c7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/8/d/8d29754c8b39cd9309226e0a72ef9775778a821f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/8/988b85a8255779d06e9969c0b14eefa477c0daaf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/a/9ad41b05111d67d598bfacb4333a1d77dbc30dfa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/9/a999f2d63e2a120afd247a4f8767eec8c52cd0c7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/d/ad677587e21a99c3ea90ebdeec2853a7e57ff047" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/e/aeddc33c7fc22852e1186c10e6f7a23db221d049" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/c/0/c0c9c79a3f9229fc5e34690b3016256951d150bc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/0/d09b11df6d07d4ab1cacbb9ec1e503964c44a45b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/4/d4d220d0032d98bf9f444eb6aec5bc3414913c73" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/5/d558ed5832b5384ec6a123cbb65822061b336cc8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/d/7/d7af6f3b8fd47947470747b77c1aa9340b7d2a61" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/1/e1012b347bb3c2428ef918335affe1329e748d75" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/5/e553312ef9500ee02d4a2e27a357bf7f9fbd1bcb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/0/f07866736216be0ee2aba49e392191aeae700a35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbcWork/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbcWork/DtoForQuery/AgeTypeDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbcWork/DtoForQuery/ClientTableDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbcWork/DtoForQuery/PriseTableDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbcWork/DtoForQuery/ProjectTableDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbcWork/DtoForQuery/WorkerTableDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbcWork/servise/DatabaseInitService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbcWork/servise/DatabasePopulateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbcWork/servise/DatabaseQueryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbcWork/servise/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbcWork/sql/addMonthCountCol.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbcWork/sql/addProjectCountCollumn.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbcWork/sql/connectProjectClient.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbcWork/sql/creartTableProjectWorker.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbcWork/sql/createSeqeunce.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbcWork/sql/createTableClient.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbcWork/sql/createTableProject.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbcWork/sql/cteateTableWorker.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbcWork/sql/insertIntoClietn.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbcWork/sql/insertIntoProject.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbcWork/sql/insertIntoProjectWorcer.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbcWork/sql/insertIntoWorker.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbcWork/sql/maxMonthCount.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbcWork/sql/maxProjectCount.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbcWork/sql/minSelary.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbcWork/sql/priseOfProject.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/jdbcWork/sql/youngestOldest.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/dataForConnection.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2cOqQ2Y3dwvmDezrm5mm150OYoC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example.jdbcWork.DtoForQuery" />
+      <recent name="org.example.jdbcWork.servise" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example.jdbcWork" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DatabaseQueryService">
+    <configuration name="DatabaseInitService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.jdbcWork.servise.DatabaseInitService" />
+      <module name="JDBCHomeWork.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.jdbcWork.servise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabasePopulateService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.jdbcWork.servise.DatabasePopulateService" />
+      <module name="JDBCHomeWork.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.jdbcWork.servise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseQueryService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.jdbcWork.servise.DatabaseQueryService" />
+      <module name="JDBCHomeWork.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.jdbcWork.servise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PropertyReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.jdbcWork.servise.PropertyReader" />
+      <module name="JDBCHomeWork.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.jdbcWork.servise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkerTableDto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.jdbcWork.DtoForQuery.WorkerTableDto" />
+      <module name="JDBCHomeWork.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.jdbcWork.DtoForQuery.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DatabaseInitService" />
+        <item itemvalue="Application.WorkerTableDto" />
+        <item itemvalue="Application.DatabaseQueryService" />
+        <item itemvalue="Application.PropertyReader" />
+        <item itemvalue="Application.DatabasePopulateService" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffe78546-1f9c-4f06-8309-ba43e82f0a78" name="Changes" comment="" />
+      <created>1707992961330</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707992961330</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/jdbcWork/DtoForQuery/WorkerTableDto.java</url>
+          <line>21</line>
+          <properties class="org.example.jdbcWork.DtoForQuery.WorkerTableDto" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/jdbcWork/DtoForQuery/ProjectTableDto.java</url>
+          <line>35</line>
+          <properties class="org.example.jdbcWork.DtoForQuery.ProjectTableDto" method="toString">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/jdbcWork/DtoForQuery/ProjectTableDto.java</url>
+          <line>17</line>
+          <properties class="org.example.jdbcWork.DtoForQuery.ProjectTableDto" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/jdbcWork/DtoForQuery/PriseTableDto.java</url>
+          <line>10</line>
+          <properties class="org.example.jdbcWork.DtoForQuery.PriseTableDto" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
