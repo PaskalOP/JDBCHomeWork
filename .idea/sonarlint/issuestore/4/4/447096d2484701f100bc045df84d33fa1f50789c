@@ -1,8 +1,9 @@
 
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éö±È8“ñÏáÛ1
-n	java:S116"MRename this field "ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦³öÔıÿÿÿÿ8„òÏáÛ1
-t	java:S116	"XRename this field "project_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–üšë8èæÒáÛ1
-c
-java:S6201"FReplace this instanceof check and cast with 'instanceof String string'(îì–Î8ˆòÏáÛ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ®ÎÎşÿÿÿÿ8íÚ¼ƒİ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éö±È8ïÚ¼ƒİ1
+n	java:S116"MRename this field "ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦³öÔıÿÿÿÿ8öÚ¼ƒİ1
+t	java:S116	"XRename this field "project_count" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–üšë8öÚ¼ƒİ1
 \
-java:S1128"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª8«ûÔáÛ1
+java:S1128"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª8ıÚ¼ƒİ1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ıÚ¼ƒİ1

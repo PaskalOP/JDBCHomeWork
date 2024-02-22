@@ -1,5 +1,7 @@
 
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éö±È8ÉŠ¤âÛ1
-v	java:S116"URename this field "project_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı€Éøÿÿÿÿ8Ó‹¤âÛ1
-j
-java:S6201"NReplace this instanceof check and cast with 'instanceof BigDecimal bigdecimal'(®ëÀ{8Ö—ÖâÛ1
+m	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÎ…8ÉÇÂƒİ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éö±È8ÊÇÂƒİ1
+v	java:S116"URename this field "project_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı€Éøÿÿÿÿ8ĞÇÂƒİ1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ÕÇÂƒİ1
