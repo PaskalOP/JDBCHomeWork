@@ -1,0 +1,39 @@
+
+h	java:S112‚"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÈàÔ¶Ü1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İ¸¿«üÿÿÿÿ8ÊàÔ¶Ü1
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Â •ü8ßàÔ¶Ü1
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(àúùè8ßàÔ¶Ü1
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Û½ƒÁùÿÿÿÿ8ààÔ¶Ü1
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(öùğøÿÿÿÿ8ààÔ¶Ü1
+T
+java:S6126"2Replace this String concatenation with Text block.(öùğøÿÿÿÿ8áàÔ¶Ü1
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ŞÁÿ÷8áàÔ¶Ü1
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(½û¨ôûÿÿÿÿ8áàÔ¶Ü1
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ü˜ßë8áàÔ¶Ü1
+a
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‹‹íp8áàÔ¶Ü1
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(˜ĞÅòşÿÿÿÿ8âàÔ¶Ü1
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¡ 8âàÔ¶Ü1
+O
+java:S6126"2Replace this String concatenation with Text block.(¡ 8âàÔ¶Ü1
+g
+java:S1124'"EReorder the modifiers to comply with the Java Language Specification.(…´ôşÿÿÿÿ8âàÔ¶Ü1
+T
+java:S6126'"2Replace this String concatenation with Text block.(…´ôşÿÿÿÿ8âàÔ¶Ü1
+X	java:S125‡"<This block of commented-out lines of code should be removed.(öçİL8íàÔ¶Ü1
+^	java:S125”"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ8íàÔ¶Ü1
+J
+java:S1128"(Remove this unused import 'lombok.Data'.(÷í«ÿÿÿÿÿ8íàÔ¶Ü1
+\
+java:S1128":Remove this unused import 'org.example.jdbcWork.Database'.(Ö™ñ´ıÿÿÿÿ8íàÔ¶Ü1
+K
+java:S1068".Remove this unused "connection" private field.(ÿ›ÅÒ8íàÔ¶Ü1

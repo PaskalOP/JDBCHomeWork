@@ -1,8 +1,4 @@
 
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éö±È8„®îâÛ1
-b
-java:S6201"FReplace this instanceof check and cast with 'instanceof String string'(½­ãM8 °îâÛ1
-c
-java:S6201"FReplace this instanceof check and cast with 'instanceof String string'(¨©È®8¡°îâÛ1
-d
-java:S6201"BReplace this instanceof check and cast with 'instanceof Date data'(Éºœıÿÿÿÿ8¡°îâÛ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éö±È8Ã²Ë‚İ1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¡ŸÏ‚İ1

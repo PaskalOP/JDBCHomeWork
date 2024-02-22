@@ -1,13 +1,13 @@
 
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éö±È8£Á°ßÛ1
-o	java:S116	"TRename this field "CLIENT_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·…r8ı®£áÛ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿõ¹ßüÿÿÿÿ8ÛƒÇƒİ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿõ¹ßüÿÿÿÿ8ÛƒÇƒİ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿõ¹ßüÿÿÿÿ8ÛƒÇƒİ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿõ¹ßüÿÿÿÿ8ÜƒÇƒİ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éö±È8ÜƒÇƒİ1
+o	java:S116	"TRename this field "CLIENT_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·…r8åƒÇƒİ1
 q	java:S116
-"URename this field "start_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÿ¥Ì8³‚¡áÛ1
-w	java:S116"VRename this field "finish_Date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ˜³ıÿÿÿÿ8òœáÛ1
-q	java:S116"VRename this field "MONTH_COUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸µ„w8Ë¹¤áÛ1
-t
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(–¼‘åûÿÿÿÿ8øÆßÛ1
-d
-java:S6201"BReplace this instanceof check and cast with 'instanceof Date data'(™ôŒÖùÿÿÿÿ8úœ²ßÛ1
-_
-java:S6201"BReplace this instanceof check and cast with 'instanceof Date data'(¿Šè8ÇŒºßÛ1
+"URename this field "start_date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÿ¥Ì8åƒÇƒİ1
+w	java:S116"VRename this field "finish_Date" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ˜³ıÿÿÿÿ8åƒÇƒİ1
+q	java:S116"VRename this field "MONTH_COUNT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸µ„w8åƒÇƒİ1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8íƒÇƒİ1
